@@ -1,5 +1,5 @@
 # SMT-Assembly-Components-orientation-fix
-This guide has the basic requirments to place a SMT Assembly order with some tips on how to fix the misplacement and orientation of SMD parts
+This guide has the basic requirments to place a SMT Assembly order with some tips on how to fix the misplacement and orientation of SMD parts.
 
 If you are reading this article description then you are searching for a method to fix the SMT assembly online viewer of JLCPCB, following the steps of this article you will be capable to fix some mismatch generated data and you get a clear view on how it will look like your board after the assembly.
 
